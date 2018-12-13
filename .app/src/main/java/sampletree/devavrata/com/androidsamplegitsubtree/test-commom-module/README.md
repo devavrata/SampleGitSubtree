@@ -1,2 +1,0 @@
-# CommonModule
-Common Module
